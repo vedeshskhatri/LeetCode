@@ -18,18 +18,25 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/vedeshskhatri/LeetCode/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/vedeshskhatri/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/vedeshskhatri/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## String
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/vedeshskhatri/LeetCode/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/vedeshskhatri/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/vedeshskhatri/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/vedeshskhatri/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/vedeshskhatri/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/vedeshskhatri/LeetCode/tree/master/0242-valid-anagram) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/vedeshskhatri/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
