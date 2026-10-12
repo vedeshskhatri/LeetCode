@@ -17,13 +17,19 @@
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/vedeshskhatri/LeetCode/tree/master/0242-valid-anagram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/vedeshskhatri/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/vedeshskhatri/LeetCode/tree/master/0242-valid-anagram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/vedeshskhatri/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Counting
 |  |
 | ------- |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/vedeshskhatri/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/vedeshskhatri/LeetCode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
